@@ -1,2 +1,2 @@
-# finalProjecteDataSeince
+# finalProjecteDataScience
 # EX4_IntroToCs
